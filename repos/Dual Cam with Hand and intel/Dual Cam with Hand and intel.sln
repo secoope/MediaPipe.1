@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dual Cam with Hand and intel", "Dual Cam with Hand and intel.pyproj", "{8E47767E-C2A6-4BD9-A4B5-D9358627F1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E47767E-C2A6-4BD9-A4B5-D9358627F1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E47767E-C2A6-4BD9-A4B5-D9358627F1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {421A8033-75F8-4BFD-A6F9-7580CC21D3E9}
+	EndGlobalSection
+EndGlobal

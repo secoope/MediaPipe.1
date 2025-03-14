@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CI - Hand Tracking Code", "CI - Hand Tracking Code.pyproj", "{C5D5D4E6-4E61-4B14-85FE-BA19FD146C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D5D4E6-4E61-4B14-85FE-BA19FD146C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D5D4E6-4E61-4B14-85FE-BA19FD146C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA442C5-C442-4A6C-B965-EC9975C0649D}
+	EndGlobalSection
+EndGlobal

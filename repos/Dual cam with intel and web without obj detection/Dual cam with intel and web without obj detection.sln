@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dual cam with intel and web without obj detection", "Dual cam with intel and web without obj detection.pyproj", "{17AD1DEB-E848-4D74-8BB5-2D0738D6EBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AD1DEB-E848-4D74-8BB5-2D0738D6EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AD1DEB-E848-4D74-8BB5-2D0738D6EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5C3465-141C-49DC-A98C-F164D7CFD15A}
+	EndGlobalSection
+EndGlobal
